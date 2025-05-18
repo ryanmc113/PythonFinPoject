@@ -1,0 +1,9 @@
+credentials-sheets.json
+credentials.json
+/env
+/__pycache__
+/googleSheetsToken
+token-sheets.pickle
+.env
+token-drive.pickle
+/googleEmailToken
